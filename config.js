@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'em vẫn luôn yêu anh mà mãi yêu lun ^^ <33',
     btnNo: 'Không,   thích  1 xíu :3',
     question:'có phải em vẫn luôn yêu anh không <3',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho anh  <3',
     reply: 'em yêu anh  ',
     mess: 'anh biết mà. Yêu em nhiều nhiều 😘😘',
     messDesc: 'hy vọng em vẫn lun yêu anh.',
